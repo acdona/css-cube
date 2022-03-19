@@ -6,12 +6,11 @@ A. C. <b>Doná Dev FSPHP</b>
 </h1>
 <br>
 
-# Projeto acd-project-name 📱 💻 🖥️ 
+# Projeto 3D CSS Cube 📱 💻 🖥️ 
 
->Este projeto é um modelo
+>Este projeto Css de um cubo em 3D
 
-Objetivo é a utilização do mesmo em outros projetos
-
+Objetivo é a demonstração de alguns efeitos possíveis no CSS
 ## Histórico de alterações
 
 ### 001 - Preparação do ambiente 
@@ -19,26 +18,17 @@ Objetivo é a utilização do mesmo em outros projetos
 - Criação dos arquivos
     - index.html
     - README.md
-    - script.js
     - style.css
 
 ## Instalação
 
 ### Pré requisitos
 
-- um navegador com suporte a javascript
+- um navegador com CSS3
 
 ## Software utilizado
 - Visual Studio Code
 - Notepad++
-
-## Observações
-
-- Para funcionar corretamente, o projeto deve ser em localhost/index.html,
-sendo o localhost o endereço do seu servidor. 
-Se for tentado o acesso direto pelo index.html, o navegador apontará erro:
-O acesso ao script foi bloqueado pela política CORS.
-Access to script has been blocked by CORS policyps.
 
 ## Crédito
 
